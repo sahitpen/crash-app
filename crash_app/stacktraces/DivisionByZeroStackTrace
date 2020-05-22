@@ -1,0 +1,29 @@
+IntegerDivisionByZeroException: IntegerDivisionByZeroException
+  File "unparsed", in Warning: This VM has been configured to produce stack traces that violate the Dart standard.
+  File "unparsed", in *** *** *** *** *** *** *** *** *** *** *** *** *** *** *** ***
+  File "unparsed", in pid: 26940, tid: 26956, name 1.ui
+  File "unparsed", in isolate_instructions: 7e3adaf000 vm_instructions: 7e3adaa000
+  File "unparsed", in     #00 abs 0000007e3afcff47 virt 0000000000227f47 _kDartIsolateSnapshotInstructions+0x220f47
+  File "unparsed", in     #01 abs 0000007e3b007edb virt 000000000025fedb _kDartIsolateSnapshotInstructions+0x258edb
+  File "unparsed", in     #02 abs 0000007e3af63073 virt 00000000001bb073 _kDartIsolateSnapshotInstructions+0x1b4073
+  File "unparsed", in     #03 abs 0000007e3aeebeeb virt 0000000000143eeb _kDartIsolateSnapshotInstructions+0x13ceeb
+  File "unparsed", in     #04 abs 0000007e3afd0003 virt 0000000000228003 _kDartIsolateSnapshotInstructions+0x221003
+  File "unparsed", in     #05 abs 0000007e3ae51617 virt 00000000000a9617 _kDartIsolateSnapshotInstructions+0xa2617
+  File "unparsed", in     #06 abs 0000007e3afa529f virt 00000000001fd29f _kDartIsolateSnapshotInstructions+0x1f629f
+  File "unparsed", in     #07 abs 0000007e3ae3430b virt 000000000008c30b _kDartIsolateSnapshotInstructions+0x8530b
+  File "unparsed", in     #08 abs 0000007e3af922eb virt 00000000001ea2eb _kDartIsolateSnapshotInstructions+0x1e32eb
+  File "unparsed", in     #09 abs 0000007e3ae50823 virt 00000000000a8823 _kDartIsolateSnapshotInstructions+0xa1823
+  File "unparsed", in     #10 abs 0000007e3af55f73 virt 00000000001adf73 _kDartIsolateSnapshotInstructions+0x1a6f73
+  File "unparsed", in     #11 abs 0000007e3ae34193 virt 000000000008c193 _kDartIsolateSnapshotInstructions+0x85193
+  File "unparsed", in     #12 abs 0000007e3ae314ff virt 00000000000894ff _kDartIsolateSnapshotInstructions+0x824ff
+  File "unparsed", in     #13 abs 0000007e3aecd8d3 virt 00000000001258d3 _kDartIsolateSnapshotInstructions+0x11e8d3
+  File "unparsed", in     #14 abs 0000007e3aecdaf7 virt 0000000000125af7 _kDartIsolateSnapshotInstructions+0x11eaf7
+  File "unparsed", in     #15 abs 0000007e3aecdb6f virt 0000000000125b6f _kDartIsolateSnapshotInstructions+0x11eb6f
+  File "unparsed", in     #16 abs 0000007e3aecddbb virt 0000000000125dbb _kDartIsolateSnapshotInstructions+0x11edbb
+  File "unparsed", in     #17 abs 0000007e3aecd4fb virt 00000000001254fb _kDartIsolateSnapshotInstructions+0x11e4fb
+  File "unparsed", in     #18 abs 0000007e3add413b virt 000000000002c13b _kDartIsolateSnapshotInstructions+0x2513b
+  File "unparsed", in     #19 abs 0000007e3add43d7 virt 000000000002c3d7 _kDartIsolateSnapshotInstructions+0x253d7
+  File "unparsed", in     #20 abs 0000007e3af71957 virt 00000000001c9957 _kDartIsolateSnapshotInstructions+0x1c2957
+  File "unparsed", in     #21 abs 0000007e3af74c7f virt 00000000001ccc7f _kDartIsolateSnapshotInstructions+0x1c5c7f
+  File "unparsed", in     #22 abs 0000007e3add5143 virt 000000000002d143 _kDartIsolateSnapshotInstructions+0x26143
+  File "unparsed", in     #23 abs 0000007e3adb6a4f virt 000000000000ea4f _kDartIsolateSnapshotInstructions+0x7a4f
